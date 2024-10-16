@@ -56,5 +56,3 @@ Contributions are welcome! Please follow these steps:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
-You can copy this Markdown text directly into your README.md file on GitHub. Let me know if you need any more customization or details!
